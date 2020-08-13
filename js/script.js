@@ -17,5 +17,5 @@ git branch "nombre": Linea alternativa
 
 git checkout "linea alternativa": Cambiar de linea
 
-1
+2
 */
