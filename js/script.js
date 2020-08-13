@@ -17,5 +17,5 @@ git branch "nombre": Linea alternativa
 
 git checkout "linea alternativa": Cambiar de linea
 
-Dirty deeds done dirt cheap!
+5
 */
