@@ -1,3 +1,70 @@
 *{
 	margin: 0px;
 }
+
+body{
+	background-color: #FFE4C4;
+}
+
+header{
+	background-color: #8B0000;
+	width: 100%;
+	height: 100px;
+}
+
+#add{
+	height: 40px;
+	width: 80px;
+	float: right;
+	margin: 25px;
+}
+
+.cajaBoton{
+	height: 300px;
+	width: 10%;
+	margin: 10px;
+	float: left;
+}
+
+.tituloBoton{
+	height: 60%;
+	width: 100%;
+	background-color: #CD5C5C;
+	font-size: 30px;
+	text-align: center;
+	color: #FFF8DC;
+}
+
+.botones{
+	float: right;
+	width: 70%;
+	height: 20%;
+	margin: 6px;
+}
+
+.descripcionBoton{
+	height: 40%;
+	width: 100%;
+	background-color: #FA8072;
+}
+
+.cajaImagen{
+	height: 300px;
+	width: 35%;
+	float: left;
+	margin: 10px;
+}
+
+.tituloImagen{
+	height: 30%;
+	width: 100%;
+	background-color: #CD5C5C;
+}
+
+.descripcionImagen{
+	height: 70%;
+	width: 100%;
+	background-image: url("https://media0.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif");
+	background-size: cover;
+
+}
