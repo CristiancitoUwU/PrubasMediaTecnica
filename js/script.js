@@ -29,7 +29,7 @@ git log --oneline --decorate --graph: Mostrar todos los commit
 
 git clone (ruta): Descargar cambios de GitHub
 
-Dirty deeds done dirt cheap!
+2Dirty deeds done dirt cheap!
 */
 
 ar contador = 1 ;
